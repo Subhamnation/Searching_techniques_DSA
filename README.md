@@ -5,4 +5,3 @@ Searching algorithms are systematic methods used to locate specific data within 
 1. Linear Search
 2. Binary Search
 3. Exponential Search
-4. 
